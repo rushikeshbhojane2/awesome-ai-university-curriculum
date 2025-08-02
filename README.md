@@ -1,0 +1,1 @@
+# awesome-ai-university-curriculum
