@@ -1,8 +1,39 @@
 # awesome-ai-university-curriculum
 
+# 📚 Curated List of CS & ML Courses and Resources
+
+This repository contains a curated list of free and open-source resources, including playlists, course websites, and GitHub collections on topics like Computer Science, Artificial Intelligence, Machine Learning, and more.
+
+---
+
+## 🎥 YouTube Playlists
+
+- [University of Washington CSE - Playlists](https://www.youtube.com/@uwcse/playlists)
+- [Maziar Raissi - ML/Physics Courses](https://www.youtube.com/@maziarraissi3569/playlists)
+- [CS186 Berkeley - Playlists](https://www.youtube.com/@CS186Berkeley/playlists)
+- [David Black-Schaffer - Systems & Architecture](https://www.youtube.com/@davidblack-schaffer219/playlists)
+- [Machine Learning at Berkeley - Playlists](https://www.youtube.com/@machinelearningatberkeley8868/playlists)
+- [DeepMind x UCL Deep Learning Lecture Series](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
+- [Stanford CS229 - Machine Learning (Andrew Ng)](https://www.youtube.com/playlist?list=PLhMnuBfGeCDM8pXLpqib90mDFJI-e1lpk)
+- [Berkeley CS188: Introduction to AI](https://youtube.com/playlist?list=PLhwIOYE-ldwL6h-peJADfNm8bbO3GlKEy&si=NjPAwRItm2a6R5s0)
+
+## 🌐 Course Websites
+
+- [CS180: Data Science & Systems (Cal Fall 2024)](https://cal-cs180.github.io/fa24/)
+- [CS280: Computer Vision (Berkeley)](https://cs280-berkeley.github.io/)
+- [CS182: Deep Learning (Spring 2022)](https://cs182sp22.github.io/)
+- [CS262: Distributed Systems (Eric Brewer)](https://people.eecs.berkeley.edu/~brewer/cs262/)
+- [CS262A: Advanced Topics in Systems (Fall 2020)](https://ucbrise.github.io/cs262a-fall2020/)
+- [UCSD Podcast Lectures Archive](https://podcast.ucsd.edu/#pastcourses)
+- [MIT Online Learning](https://learn.mit.edu/)
+
+## 🧠 GitHub Repositories
+
+- [Developer-Y / CS Video Courses (Massive Collection)](https://github.com/Developer-Y/cs-video-courses?tab=readme-ov-file#artificial-intelligence)
+- [owainlewis / Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence?tab=readme-ov-file#courses)
+- [dair-ai / ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 
 #### BS-Level AI Upskill Curriculum
-
 | Category            | Topic                       | Course                                                                         | Provider / Educator               | Platform  | Link                                                                                                          |
 |---------------------|-----------------------------|--------------------------------------------------------------------------------|-----------------------------------|-----------|---------------------------------------------------------------------------------------------------------------|
 | Foundations         | Programming                 | Introduction to Computer Science and Programming in Python (6.0001)             | MIT                               | MIT OCW   | https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/      |
@@ -26,20 +57,6 @@
 | YouTube Educators   | DL Crash Course             | Deep Learning Crash Course for Beginners                                         | freeCodeCamp.org                  | YouTube   | https://www.youtube.com/playlist?list=PLSZS2dIkMNUEUJub6Gh6nClKNJnyQfkZy                                     |
 | YouTube Educators   | AI Foundations              | AI Foundations Course – Python, ML, Deep Learning                                | LunarTech_ai (via freeCodeCamp)   | YouTube   | https://www.youtube.com/watch?v=0oyDqO8PjIg                                                                   |
 | YouTube Educators   | Applied DL                  | Applied Deep Learning with PyTorch – Full Course                                 | freeCodeCamp.org                  | YouTube   | https://www.youtube.com/watch?v=CNuI8OWsppg                                                                  |
-
 #### MS-Level Advanced AI Curriculum
-
 #### MS-Level Advanced AI Curriculum
-
 | Category                   | Topic                                 | Course                                                                         | Provider / Educator               | Platform            | Link                                                                                                                      |
-|----------------------------|---------------------------------------|--------------------------------------------------------------------------------|-----------------------------------|---------------------|---------------------------------------------------------------------------------------------------------------------------|
-| Core ML                    | Introduction to Machine Learning      | 6.036: Introduction to Machine Learning (Fall 2020)                             | MIT (Kaelbling, Lozano-Pérez)     | YouTube Playlist    | https://www.youtube.com/playlist?list=PLQEw29vp6f1Ae9dp8vkKB8H6sF1PHvP5N                               |
-| Core ML                    | Statistical Learning Theory           | 9.520/6.860: Statistical Learning Theory and Applications (Fall 2018)           | MIT CBMM                          | YouTube Playlist    | https://www.youtube.com/playlist?list=PLyGKBDfnk-iAtLO6oLW4swMiQGz4f2OPY                            |
-| Core ML                    | ML for Healthcare                     | 6.S897: Machine Learning for Healthcare (Spring 2019)                            | MIT (Szolovits & Sontag)          | OCW Lecture Videos  | https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/video_galleries/lecture-videos/  |
-| Core NLP                   | NLP with Deep Learning                | CS224n: Natural Language Processing with Deep Learning (2024)                   | Stanford (Jurafsky & Manning)     | YouTube Playlist    | https://www.youtube.com/playlist?list=PLuQUxYHEVjGlsrrmx57BBTJeomSk5gQy4                             |
-| Core NLP                   | Natural Language Understanding        | CS224U: Natural Language Understanding (Spring 2023)                            | Stanford (Potts)                  | YouTube Playlist    | https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20                             |
-| Core AI Techniques         | Self-Driving Cars                     | 6.S094: Deep Learning for Self-Driving Cars (2018)                              | MIT (Fridman)                     | YouTube Playlist    | https://www.youtube.com/playlist?list=PLts9ZnoIwN9MJOXSFal2wFImRjfUhmYSP                            |
-| Core AI Techniques         | Foundations of Deep Learning          | 6.S191: Introduction to Deep Learning                                          | MIT (Amini)                       | YouTube Playlist    | https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI                            |
-| Specialized Reinforcement  | Deep Reinforcement Learning           | CS285: Deep Reinforcement Learning (Fall 2023)                                  | UC Berkeley (RAIL)                | YouTube Playlist    | https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps                            |
-| Specialized Decision Making| Decision Making Under Uncertainty      | AA228/CS238: Decision Making Under Uncertainty I                                | Stanford (Ott)                    | YouTube Playlist    | https://www.youtube.com/playlist?list=PLKiB1dSToTXdVbVfx14wrdIkHTDElAooP                            |
-| Specialized PGM            | Probabilistic Graphical Models        | CS228: Probabilistic Graphical Models                                          | Stanford                          | YouTube Playlist    | https://www.youtube.com/playlist?list=PLQl7D2xuMMNq5lj52YpCjGvgOrjvX4h5G                            |
